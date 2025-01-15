@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.5">
   <diagram name="Page-1" id="am8pxdbbcNvz-yb-qvFi">
-    <mxGraphModel dx="1429" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1048" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,8 +123,8 @@
         <mxCell id="OW2uP8YpIRxtxsNKAFUY-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.876;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OW2uP8YpIRxtxsNKAFUY-59" target="OW2uP8YpIRxtxsNKAFUY-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OW2uP8YpIRxtxsNKAFUY-61" value="&lt;span style=&quot;font-size: 11pt; color: rgb(35, 31, 32);&quot; lang=&quot;ES-EC&quot;&gt;PISIM ETAP&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt; color: rgb(35, 31, 32);&quot; lang=&quot;ES-EC&quot;&gt;B61&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="767" y="130" width="110" height="50" as="geometry" />
+        <mxCell id="OW2uP8YpIRxtxsNKAFUY-61" value="&lt;span lang=&quot;ES-EC&quot; style=&quot;color: rgb(35, 31, 32);&quot;&gt;PISIM ETAP&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span lang=&quot;ES-EC&quot; style=&quot;color: rgb(35, 31, 32);&quot;&gt;B61&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="777" y="135" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OW2uP8YpIRxtxsNKAFUY-64" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Info.svg;" vertex="1" parent="1">
           <mxGeometry x="260" y="245" width="30" height="30" as="geometry" />

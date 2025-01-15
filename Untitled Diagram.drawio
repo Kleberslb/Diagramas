@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.5">
   <diagram name="Page-1" id="am8pxdbbcNvz-yb-qvFi">
-    <mxGraphModel dx="786" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,8 +50,8 @@
         <mxCell id="OW2uP8YpIRxtxsNKAFUY-85" value="SVR_V1&lt;div&gt;ip:1.1.1.1&lt;/div&gt;&lt;div&gt;DNS:1.1.1.1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="380.32" y="177" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OW2uP8YpIRxtxsNKAFUY-86" value="SVR_V2&lt;div&gt;ip:2.2.2.2&lt;/div&gt;&lt;div&gt;DNS:2.2.2.2&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="705" y="177" width="90" height="60" as="geometry" />
+        <mxCell id="OW2uP8YpIRxtxsNKAFUY-86" value="SVR_V2&lt;div&gt;ip:2.2.2.2&lt;/div&gt;&lt;div&gt;DNS_1:2.2.2.2&lt;/div&gt;&lt;div&gt;DNS_1:3.3.3.3&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="172" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OW2uP8YpIRxtxsNKAFUY-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="OW2uP8YpIRxtxsNKAFUY-89" target="OW2uP8YpIRxtxsNKAFUY-84">
           <mxGeometry relative="1" as="geometry" />
@@ -118,7 +118,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OW2uP8YpIRxtxsNKAFUY-107" value="Pisim B12" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="672" y="55.63" width="80" height="30" as="geometry" />
+          <mxGeometry x="662.4" y="50" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OW2uP8YpIRxtxsNKAFUY-108" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/PixeloPhilia_2/PNG/license.png" vertex="1" parent="1">
           <mxGeometry x="734" y="140" width="32" height="32" as="geometry" />
@@ -127,7 +127,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OW2uP8YpIRxtxsNKAFUY-110" value="&lt;span lang=&quot;ES-EC&quot; style=&quot;color: rgb(35, 31, 32);&quot;&gt;PISIM ETAP&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span lang=&quot;ES-EC&quot; style=&quot;color: rgb(35, 31, 32);&quot;&gt;B61&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="777" y="135" width="90" height="40" as="geometry" />
+          <mxGeometry x="734" y="125.31" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OW2uP8YpIRxtxsNKAFUY-111" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Info.svg;" vertex="1" parent="1">
           <mxGeometry x="260" y="245" width="30" height="30" as="geometry" />
@@ -147,8 +147,8 @@
         <mxCell id="OW2uP8YpIRxtxsNKAFUY-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.022;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OW2uP8YpIRxtxsNKAFUY-92" target="OW2uP8YpIRxtxsNKAFUY-111">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OW2uP8YpIRxtxsNKAFUY-117" value="&lt;span style=&quot;font-size: 71px;&quot;&gt;Diagrama global&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="350" y="650" width="540" height="100" as="geometry" />
+        <mxCell id="OW2uP8YpIRxtxsNKAFUY-117" value="&lt;span style=&quot;font-size: 71px;&quot;&gt;Intranet SHAYA&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="329.55" y="640" width="510" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OW2uP8YpIRxtxsNKAFUY-123" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="1">
           <mxGeometry x="567.28" y="55.63" width="34.56" height="30.63" as="geometry" />

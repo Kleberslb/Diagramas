@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="am8pxdbbcNvz-yb-qvFi">
-    <mxGraphModel dx="1050" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="4439" dy="1126" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -209,18 +209,18 @@
           <mxGeometry x="555" y="450" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k9LP3HZbh6XQkwzVRzkG-1" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="179.99999999999997" y="860" width="850" height="490" as="geometry" />
+          <mxGeometry x="179.99999999999997" y="831.59" width="850" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="k9LP3HZbh6XQkwzVRzkG-2" value="Diagrama conectividad" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="450" y="860" width="310" height="50" as="geometry" />
+        <mxCell id="k9LP3HZbh6XQkwzVRzkG-2" value="SERVIDORES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="500" y="850" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="k9LP3HZbh6XQkwzVRzkG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.97;entryY=0.569;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="k9LP3HZbh6XQkwzVRzkG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.592;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="k9LP3HZbh6XQkwzVRzkG-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="606.09" y="1080" as="sourcePoint" />
             <mxPoint x="546.1232999999999" y="1156.9" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="605.72" y="1160" />
-              <mxPoint x="545.72" y="1160" />
+              <mxPoint x="606" y="1160" />
+              <mxPoint x="545" y="1160" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -244,7 +244,7 @@
         </mxCell>
         <mxCell id="k9LP3HZbh6XQkwzVRzkG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9LP3HZbh6XQkwzVRzkG-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="653.72" y="1160" as="targetPoint" />
+            <mxPoint x="650" y="1160" as="targetPoint" />
             <Array as="points">
               <mxPoint x="604.72" y="1160" />
             </Array>
@@ -261,6 +261,29 @@
         </mxCell>
         <mxCell id="k9LP3HZbh6XQkwzVRzkG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.669;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k9LP3HZbh6XQkwzVRzkG-13" target="k9LP3HZbh6XQkwzVRzkG-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k9LP3HZbh6XQkwzVRzkG-20" value="Pipesim B61" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="785" y="1070" width="65" height="16.59" as="geometry" />
+        </mxCell>
+        <mxCell id="k9LP3HZbh6XQkwzVRzkG-21" value="Pipesim B12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="734" y="920" width="66" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k9LP3HZbh6XQkwzVRzkG-22" value="" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-571.77" y="1380" width="1000" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="k9LP3HZbh6XQkwzVRzkG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.494;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k9LP3HZbh6XQkwzVRzkG-4" target="k9LP3HZbh6XQkwzVRzkG-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="1370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-78" y="1180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k9LP3HZbh6XQkwzVRzkG-24" value="APLICACIONES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-101.77" y="1400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k9LP3HZbh6XQkwzVRzkG-28" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://signalx.ca/wp-content/uploads/2024/06/PISystem-Logo-3.png;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="1435" width="230" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

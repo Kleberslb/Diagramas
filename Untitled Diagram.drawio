@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="am8pxdbbcNvz-yb-qvFi">
-    <mxGraphModel dx="4439" dy="1126" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -209,52 +209,52 @@
           <mxGeometry x="555" y="450" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k9LP3HZbh6XQkwzVRzkG-1" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="179.99999999999997" y="831.59" width="850" height="490" as="geometry" />
+          <mxGeometry x="781.77" y="820" width="850" height="490" as="geometry" />
         </mxCell>
         <mxCell id="k9LP3HZbh6XQkwzVRzkG-2" value="SERVIDORES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="500" y="850" width="210" height="50" as="geometry" />
+          <mxGeometry x="1101.77" y="838.41" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="k9LP3HZbh6XQkwzVRzkG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.592;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="k9LP3HZbh6XQkwzVRzkG-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="606.09" y="1080" as="sourcePoint" />
-            <mxPoint x="546.1232999999999" y="1156.9" as="targetPoint" />
+            <mxPoint x="1207.8600000000001" y="1068.41" as="sourcePoint" />
+            <mxPoint x="1147.8932999999997" y="1145.3100000000002" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="606" y="1160" />
-              <mxPoint x="545" y="1160" />
+              <mxPoint x="1207.77" y="1148.41" />
+              <mxPoint x="1146.77" y="1148.41" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="k9LP3HZbh6XQkwzVRzkG-3" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
-          <mxGeometry x="553.72" y="950" width="102.56" height="130" as="geometry" />
+          <mxGeometry x="1155.49" y="938.41" width="102.56" height="130" as="geometry" />
         </mxCell>
         <mxCell id="k9LP3HZbh6XQkwzVRzkG-4" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
-          <mxGeometry x="466.68000000000006" y="1100" width="78.89" height="100" as="geometry" />
+          <mxGeometry x="1068.45" y="1088.41" width="78.89" height="100" as="geometry" />
         </mxCell>
         <mxCell id="k9LP3HZbh6XQkwzVRzkG-5" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
-          <mxGeometry x="648.6800000000001" y="1100" width="78.89" height="100" as="geometry" />
+          <mxGeometry x="1250.45" y="1088.41" width="78.89" height="100" as="geometry" />
         </mxCell>
         <mxCell id="k9LP3HZbh6XQkwzVRzkG-6" value="EC0038APP06&lt;div&gt;163.186.77.152&lt;/div&gt;&lt;div&gt;10.152.16.4&lt;/div&gt;&lt;div&gt;136.252.166.200&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="450.44000000000005" y="1230" width="60" height="30" as="geometry" />
+          <mxGeometry x="1052.21" y="1218.41" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k9LP3HZbh6XQkwzVRzkG-8" value="EC0038APP07&lt;div&gt;163.186.77.153&lt;/div&gt;&lt;div&gt;10.152.16.4&lt;/div&gt;&lt;div&gt;136.252.166.200&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="646.11" y="1230" width="60" height="30" as="geometry" />
+          <mxGeometry x="1247.88" y="1218.41" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k9LP3HZbh6XQkwzVRzkG-10" value="EC0038HYP01&lt;div&gt;163.186.77.151&lt;/div&gt;&lt;div&gt;10.152.16.4&lt;/div&gt;&lt;div&gt;136.252.166.200&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="667.57" y="990" width="60" height="30" as="geometry" />
+          <mxGeometry x="1269.3400000000001" y="978.41" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k9LP3HZbh6XQkwzVRzkG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9LP3HZbh6XQkwzVRzkG-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="1160" as="targetPoint" />
+            <mxPoint x="1251.77" y="1148.41" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="604.72" y="1160" />
+              <mxPoint x="1206.49" y="1148.41" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="k9LP3HZbh6XQkwzVRzkG-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.petroleumsoftwares.com/wp-content/uploads/edd/2020/07/Schlumberger-PIPESIM-e1594941745297.png;" vertex="1" parent="1">
-          <mxGeometry x="752.6" y="1060" width="32.4" height="33.18" as="geometry" />
+          <mxGeometry x="1354.37" y="1048.41" width="32.4" height="33.18" as="geometry" />
         </mxCell>
         <mxCell id="k9LP3HZbh6XQkwzVRzkG-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.petroleumsoftwares.com/wp-content/uploads/edd/2020/07/Schlumberger-PIPESIM-e1594941745297.png;" vertex="1" parent="1">
-          <mxGeometry x="694" y="910" width="40" height="40.96" as="geometry" />
+          <mxGeometry x="1295.77" y="898.41" width="40" height="40.96" as="geometry" />
         </mxCell>
         <mxCell id="k9LP3HZbh6XQkwzVRzkG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.695;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k9LP3HZbh6XQkwzVRzkG-14" target="k9LP3HZbh6XQkwzVRzkG-3">
           <mxGeometry relative="1" as="geometry" />
@@ -263,27 +263,30 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k9LP3HZbh6XQkwzVRzkG-20" value="Pipesim B61" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="785" y="1070" width="65" height="16.59" as="geometry" />
+          <mxGeometry x="1386.77" y="1058.41" width="65" height="16.59" as="geometry" />
         </mxCell>
         <mxCell id="k9LP3HZbh6XQkwzVRzkG-21" value="Pipesim B12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="734" y="920" width="66" height="20" as="geometry" />
+          <mxGeometry x="1335.77" y="908.41" width="66" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k9LP3HZbh6XQkwzVRzkG-22" value="" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-571.77" y="1380" width="1000" height="340" as="geometry" />
+          <mxGeometry x="167.72" y="1368.41" width="720" height="261.59" as="geometry" />
         </mxCell>
         <mxCell id="k9LP3HZbh6XQkwzVRzkG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.494;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k9LP3HZbh6XQkwzVRzkG-4" target="k9LP3HZbh6XQkwzVRzkG-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-80" y="1370" as="targetPoint" />
+            <mxPoint x="521.77" y="1358.41" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-78" y="1180" />
+              <mxPoint x="523.77" y="1168.41" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="k9LP3HZbh6XQkwzVRzkG-24" value="APLICACIONES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-101.77" y="1400" width="60" height="30" as="geometry" />
+          <mxGeometry x="500" y="1388.41" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k9LP3HZbh6XQkwzVRzkG-28" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://signalx.ca/wp-content/uploads/2024/06/PISystem-Logo-3.png;" vertex="1" parent="1">
-          <mxGeometry x="-410" y="1435" width="230" height="230" as="geometry" />
+          <mxGeometry x="260" y="1400" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="k9LP3HZbh6XQkwzVRzkG-30" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images.squarespace-cdn.com/content/v1/5f620200c392b43a63d7a05a/1605883703919-MRLUC145HZR4S76SIC2L/Mitacron-OSI-Soft-Partner.png;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1448.23" width="340" height="133.53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

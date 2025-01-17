@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="am8pxdbbcNvz-yb-qvFi">
-    <mxGraphModel dx="1909" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2625" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -269,7 +269,7 @@
           <mxGeometry x="1335.77" y="908.41" width="66" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k9LP3HZbh6XQkwzVRzkG-22" value="" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="167.72" y="1368.41" width="720" height="261.59" as="geometry" />
+          <mxGeometry x="26.93" y="1370" width="1006.14" height="311.59" as="geometry" />
         </mxCell>
         <mxCell id="k9LP3HZbh6XQkwzVRzkG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.494;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k9LP3HZbh6XQkwzVRzkG-4" target="k9LP3HZbh6XQkwzVRzkG-22">
           <mxGeometry relative="1" as="geometry">
@@ -283,10 +283,13 @@
           <mxGeometry x="500" y="1388.41" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k9LP3HZbh6XQkwzVRzkG-28" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://signalx.ca/wp-content/uploads/2024/06/PISystem-Logo-3.png;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1400" width="230" height="230" as="geometry" />
+          <mxGeometry x="60" y="1399.99" width="230" height="230" as="geometry" />
         </mxCell>
         <mxCell id="k9LP3HZbh6XQkwzVRzkG-30" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images.squarespace-cdn.com/content/v1/5f620200c392b43a63d7a05a/1605883703919-MRLUC145HZR4S76SIC2L/Mitacron-OSI-Soft-Partner.png;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1448.23" width="340" height="133.53" as="geometry" />
+          <mxGeometry x="305" y="1448.22" width="340" height="133.53" as="geometry" />
+        </mxCell>
+        <mxCell id="k9LP3HZbh6XQkwzVRzkG-32" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:1400/1*FriGb1N8R13TLIZd6FQgDA.jpeg;" vertex="1" parent="1">
+          <mxGeometry x="672" y="1428.49" width="307.55" height="173" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

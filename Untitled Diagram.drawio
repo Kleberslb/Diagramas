@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.5">
   <diagram name="Page-1" id="am8pxdbbcNvz-yb-qvFi">
-    <mxGraphModel dx="3930" dy="2285" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="5240" dy="3047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -247,16 +247,13 @@
         <mxCell id="-UCid0gCiVKbw2vanVbq-82" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" parent="1" vertex="1">
           <mxGeometry x="2072.7300000000005" y="2246.71" width="78.89" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="-UCid0gCiVKbw2vanVbq-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-UCid0gCiVKbw2vanVbq-84" target="-UCid0gCiVKbw2vanVbq-81" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-UCid0gCiVKbw2vanVbq-84" value="hostname:EC0038APP06&lt;div&gt;IP:163.186.77.152&lt;/div&gt;&lt;div&gt;DNS:10.152.16.4&lt;/div&gt;&lt;div&gt;DNS:136.252.166.200&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1874.49" y="2376.71" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-UCid0gCiVKbw2vanVbq-85" value="hostname:EC0038APP07&lt;div&gt;IP:163.186.77.153&lt;/div&gt;&lt;div&gt;DNS:10.152.16.4&lt;/div&gt;&lt;div&gt;DNS:136.252.166.200&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2070.1600000000003" y="2376.71" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-UCid0gCiVKbw2vanVbq-86" value="hostname:EC0038HYP01&lt;div&gt;IP:163.186.77.151&lt;/div&gt;&lt;div&gt;DNS:10.152.16.4&lt;/div&gt;&lt;div&gt;DNS:136.252.166.200&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="-UCid0gCiVKbw2vanVbq-86" value="hostname:EC0038HYP01&lt;div&gt;IP:163.186.77.151&lt;/div&gt;&lt;div&gt;DNS:10.152.16.4&lt;/div&gt;&lt;div&gt;DNS:136.252.166.200&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=20;" parent="1" vertex="1">
           <mxGeometry x="2091.6200000000003" y="2136.71" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-UCid0gCiVKbw2vanVbq-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-UCid0gCiVKbw2vanVbq-78" edge="1">
@@ -513,7 +510,7 @@
           <mxGeometry x="2620" y="2125.01" width="317.46" height="200" as="geometry" />
         </mxCell>
         <mxCell id="-UCid0gCiVKbw2vanVbq-151" value="SLB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=33;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="2748.73" y="2216.71" width="60" height="30" as="geometry" />
+          <mxGeometry x="2820" y="2216.71" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-UCid0gCiVKbw2vanVbq-152" value="&lt;span&gt;Topología Intranet SHAYA&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=112;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1030" y="635" width="1310" height="150" as="geometry" />
@@ -582,8 +579,14 @@
         <mxCell id="86vQYfqdI6gL1pPc9GwD-20" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="6900" y="615" width="2735.12" height="2100" as="geometry" />
         </mxCell>
-        <mxCell id="86vQYfqdI6gL1pPc9GwD-21" value="&lt;span&gt;Topología IP-DNS SHAYA&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=112;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="7612.5599999999995" y="810" width="1310" height="150" as="geometry" />
+        <mxCell id="86vQYfqdI6gL1pPc9GwD-21" value="&lt;span&gt;Topología Fireflows SHAYA&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=112;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="7577.5599999999995" y="640" width="1380" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="86vQYfqdI6gL1pPc9GwD-22" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="2181.71" width="78.89" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="86vQYfqdI6gL1pPc9GwD-23" value="hostname:azr4360idmzdb01&lt;div&gt;IP:10.152.19.100&lt;/div&gt;&lt;div&gt;DNS:10.152.16.5&lt;/div&gt;&lt;div&gt;DNS:10.192.29.133&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2710" y="2346.71" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
